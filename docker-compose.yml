@@ -8,8 +8,8 @@ services:
     restart: always
     environment:
       MYSQL_ROOT_PASSWORD: rootpass
-      MYSQL_USER: pallabi
-      MYSQL_PASSWORD: roy
+      MYSQL_USER: gaurav
+      MYSQL_PASSWORD: gaurav
       MYSQL_DATABASE: mydatabase
 
   nextcloud:
